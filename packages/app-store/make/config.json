@@ -1,9 +1,13 @@
-﻿{
+{
   "name": "Make.com",
-  "type": "make_other",
+  "type": "make_automation",
   "title": "Make.com (Integromat)",
-  "variant": "other",
-  "category": "automation",
+  "variant": "automation",
+  "categories": ["automation"],
+  "logo": "icon.svg",
+  "url": "https://github.com/aar2dee2",
+  "publisher": "aar2dee2",
+  "email": "support@cal.com",
   "slug": "make",
   "description": "Send booking lifecycle webhooks directly to Make.com scenarios.",
   "isTemplate": false
